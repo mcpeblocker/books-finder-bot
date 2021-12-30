@@ -1,0 +1,15 @@
+start: |
+  <b>HI!</b>
+  <i>Write me the name of the book you want and I will find the book you told me about.</i>
+
+  <b>Help:</b> /help
+  <b>TOP:</b> /top
+help: |
+  The following commands will help you.
+
+  <b>To search for the book you want, enter its name or any part of its name, we will offer you books close to the name you entered. </b>
+
+  /author AUTHOR - Enter the desired author instead of AUTHOR and we will provide you with the books of this author.
+  /top - List of most downloaded books.
+  /language - Change the language of use.
+  /help - Information about bot commands.

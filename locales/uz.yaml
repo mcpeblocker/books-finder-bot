@@ -1,0 +1,15 @@
+start: |
+    <b>Assalomu alaykum !</b>
+    <i>Menga istalgan kitobingiz nomini yozing, men sizga aytgan kitobingizni topib beraman.</i>
+
+    <b>Yordam:</b> /help
+    <b>TOP:</b> /top
+help: |
+    Quyidagi buyruqlar sizga yordam beradi.
+
+    <b>Kerakli kitobni qidirish uchun uning nomini yoki nomining biron qismini kiriting, biz sizga kiritilgan nomga yaqin kitoblarni taklif etamiz.</b>
+
+    /author AUTHOR - AUTHOR o'rniga kerakli yozuvchini kiriting va biz sizga ushbu yozuvchining kitoblarini taqdim etamiz.
+    /top - Ko'p yuklangan kitoblar ro'yxati.
+    /language - Foydalanish tilini o'zgartirish.
+    /help - Bot buyurlari haqida ma'lumot.
